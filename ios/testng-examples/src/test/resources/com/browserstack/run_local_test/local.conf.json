@@ -9,7 +9,7 @@
     "name": "local_test",
     "browserstack.debug": true,
     "browserstack.local": true,
-    "app": "bs://<app-id>"
+    "app": "bs://745de8abd1a6c8fca3d540d69f80dee9210fa030"
   },
 
   "environments": [
