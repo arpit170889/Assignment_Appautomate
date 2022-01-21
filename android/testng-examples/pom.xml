@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.browserstack</groupId>
-    <artifactId>testng_android</artifactId>
+    <artifactId>testng-android</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>testng_android</name>
+    <name>testng-android</name>
     <url>https://github.com/browserstack/testng-appium-app-browserstack</url>
 
     <properties>

@@ -4,21 +4,17 @@
   "access_key": "BROWSERSTACK_ACCESS_KEY",
 
   "capabilities": {
-    "project": "First TestNg iOS Project",
+    "project": "First TestNg Android Project",
     "build": "browserstack-build-1",
-    "name": "parallel_test",
+    "name": "first_test",
     "browserstack.debug": true,
     "app": "bs://<app-id>"
   },
 
   "environments": [
-    {
-      "device": "iPhone 11 Pro",
-      "os_version": "13"
-    },
-    {
-      "device": "iPhone 11 Pro Max",
-      "os_version": "13"
+    { 
+      "device": "Google Pixel 3",
+      "os_version": "9.0"
     }
   ]
 }
